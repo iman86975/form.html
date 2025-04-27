@@ -1,4 +1,35 @@
-.form-control{
+.my-3{
     width: 40%;
+box-shadow: 10%;
+box-sizing: content-box;
+}
+.can{
     
+    width: 10%;
+  font: italic;
+  color: white;
+}
+.signup{
+    box-sizing: content-box;
+}
+
+.cat{
+    
+    width: 10%;
+  font: italic;
+  color: white;
+ 
+}
+body{
+  background-color: purple;
+}
+
+.front{
+  background-color: white;
+}
+.container{
+  position: absolute;
+  left: 45vh;
+  width: 50%;
+  
 }
